@@ -18,7 +18,7 @@ There are popups that provide addtional information such as the magnitude, depth
 Leaflet-Step-2:
 For the 2nd visualization, more data is added to the map to illustrate the relationship between tectonic plates and seismeic activity. The 2nd data set was pulled in from https://github.com/fraxen/tectonicplates.
 
-The data was incorporated into the existing json file for Leaflet-Step-1 by using geoJSON and D3. As well as 3 other layers of base maps: grayscale, watercolor, and topography. The base layers can be turned on and off independently. Layer controls allow the ability to use toggle between the earthquake and tectonic plates data as well as teh several base layers. 
+The data was incorporated onto the existing default map, using json file from Leaflet-Step-1 by using geoJSON and D3. The 3 additional layers of base maps were added: grayscale, watercolor, and topography. The base layers can be turned on and off independently. Layer controls allow the ability to use toggle between the earthquake and tectonic plates data as well as teh several base layers. 
 
 The final interactive map is shown below:
 
